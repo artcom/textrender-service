@@ -1,0 +1,116 @@
+html, div {
+    text-align: center;
+    overflow: visible;
+    height: auto;
+}
+
+div {
+    display: block;
+    background: rgba(0,0,0,0.05);
+}
+
+
+.intro--headline {
+    font-family: sans-serif;
+    font-size: 55px;
+    color: #333333;
+    letter-spacing: 0;
+    line-height: 216px;
+    text-shadow: 0 1px 20px rgba(0,0,0,0.60);
+}
+
+.chapter-overview--headline {
+    font-family: sans-serif;
+    font-size: 180px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 216px;
+    margin: 42.5px;
+    text-shadow: 0 5px 80px rgba(0,0,0,0.60);
+}
+
+.chapter-overview--image-subtitle {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    letter-spacing: -0.08px;
+    line-height: 48px;
+}
+
+.chapter--headline-chapter {
+    font-family: sans-serif;
+    font-size: 180px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 216px;
+    margin: 42.5px;
+    text-shadow: 0 5px 80px rgba(0,0,0,0.60);
+}
+
+.chapter--topic-subtitle {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #808890;
+    letter-spacing: -0.1px;
+    line-height: 42px;
+}
+
+.chapter--submenu-topic-title {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #FFFFFF;
+    letter-spacing: -0.1px;
+    line-height: 42px;
+}
+
+.topic--headline-topic {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 60px;
+    margin: 42.5px;
+    text-shadow: 0 5px 80px rgba(0,0,0,0.40);
+}
+
+.topic--submenu {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 60px;
+    margin: 42.5px;
+    text-shadow: 0 5px 80px rgba(0,0,0,0.40);
+}
+
+.topic--bullet-points {
+    font-family: sans-serif;
+    font-size: 42px;
+    color: #DEE1E3;
+    letter-spacing: 0;
+    line-height: 52px;
+}
+
+.menu--active-state {
+    background: #0099DA;
+}
+
+.menu--nonactive-state {
+    background: #808890;
+}
+
+.menu--points {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #808890;
+    letter-spacing: -0.1px;
+    line-height: 42px;
+}
+
+.menu--language {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #FFFFFF;
+    line-height: 42px;
+}
